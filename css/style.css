@@ -171,9 +171,12 @@ footer >h1 {
     max-width: 960px;
 }
 /*boot-strap related*/
-/*video 2 9:45*/
+/*video 3 do css3 modal*/
 .container-fluid {
     padding:0;
+}
+.img-modal {
+    text-align: center;
 }
 #favorite-sites > .row > .col-md-4 > img {
     margin: 0 auto;
